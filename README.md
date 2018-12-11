@@ -2,10 +2,8 @@
 first repository
 Name is Brittney
 
-Married to my awesome husband Scott
+Married with two kids.
 
-Have two adorbs kids named Tess and Alex.
-
-I really want to be a super excellent python programmer and data scientist.
+I really want to be a super excellent QA Automation Engineer and eventually, a developer.
 
 This sounds like a wheel of fortune contestant intro.
